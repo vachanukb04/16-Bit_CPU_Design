@@ -1,5 +1,7 @@
 "16-Bit CPU Design in Verilog HDL" 
 
+![CPU bock diagram](Capture1.PNG)
+
 Components used:
 1) ALU-Arithmetic Unit, Logical Unit, Shifter
 2) Data Memory
